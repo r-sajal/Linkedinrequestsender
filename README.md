@@ -1,6 +1,7 @@
-# githubrequestaccepter<br>
-So this is the only code you have to just right click on any tag <br>
-Inspect element <br>
+# Linked IN Request Sender<br>
+So this is what you have to do just Click on My Network<br>
+Right click on any tag <br>
+Click on Inspect element <br>
 Click on console <br>
 Paste this Code<br>
 You are all Set !!
