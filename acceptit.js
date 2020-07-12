@@ -1,4 +1,4 @@
-var x  = document.getElementsByClassName('invitation-card__action-btn artdeco-button artdeco-button--secondary ');
-for(var i=0; i<x.length; i++){
+var x  = document.getElementsByClassName('full-width artdeco-button artdeco-button--2 artdeco-button--full artdeco-button--secondary ember-view');
+for(var i=0; i<20; i++){
     x[i].click();
 }
